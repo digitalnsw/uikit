@@ -15,6 +15,7 @@
 
 ## Versions
 
+* [v7.0.0 - Use `button` instead of `<a>` on accordion title](#v700)
 * [v6.0.0 Add accordion group in a unordered list, remove `role="rab"`](#v600)
 * [v5.0.2 - Update dependencies](#v502)
 * [v5.0.1 - Removing web pack dev server, updating dependencies](#v501)
@@ -41,6 +42,11 @@
 
 
 ## Release History
+
+### v7.0.0
+
+- Use `button` instead of `<a>` on accordion title
+
 
 ### v6.0.0
 
